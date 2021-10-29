@@ -15,7 +15,7 @@ const Home: NextPage = () => {
         <circle fill="#a1b9bf" cx="147.2" cy="249.6" r="19.2" />
         <circle fill="#a1b9bf" cx="262.4" cy="339.2" r="19.2" />
       </svg>
-      <div className="text-4xl text-gray-600 my-5">Coming soon</div>
+      <div className="text-4xl text-gray-600 my-6">Coming soon</div>
     </div>
   );
 };
