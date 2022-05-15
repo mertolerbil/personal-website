@@ -1,5 +1,5 @@
 const ComingSoon = () => (
-  <div className="flex flex-col h-screen items-center justify-center">
+  <div className="flex flex-col h-full items-center justify-center">
     <svg className="w-2/12" viewBox="0 0 512 512">
       <circle fill="#cad8dd" cx="256" cy="256" r="217.6" />
       <path
